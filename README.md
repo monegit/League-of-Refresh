@@ -1,4 +1,4 @@
-<img src="https://github.com/monegit/League-of-Refresh/blob/master/images/icon.png?raw=true" alt="leagueoflegend" style="zoom:40%;" /> 
+<img src="https://github.com/monegit/League-of-Refresh/blob/master/images/icon.png?raw=true" alt="leagueoflegend" style="zoom:20%;" /> 
 
 # League-of-Refresh
 
