@@ -1,8 +1,8 @@
-<img src="/Users/bagjong-won/Desktop/Project/ToyProject/League-of-Refresh/images/icon.png" alt="leagueoflegend" style="zoom:40%;" /> 
+<img src="https://github.com/monegit/League-of-Refresh/blob/master/images/icon.png?raw=true" alt="leagueoflegend" style="zoom:40%;" /> 
 
 # League-of-Refresh
 
-![error](/Users/bagjong-won/Desktop/Project/ToyProject/League-of-Refresh/images/error.png)
+![error](https://github.com/monegit/League-of-Refresh/blob/master/images/error.png?raw=true)
 
 This repository makes it easy to fix invisible errors in the League of Legends friends list.
 
