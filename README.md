@@ -13,7 +13,7 @@ This repository makes it easy to fix invisible errors in the League of Legends f
 - MacOS
 - Windows
 
-testing on MacOS Catalina, Windows10
+testing on MacOS Catalina, Windows10.
 
 
 
