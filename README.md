@@ -17,7 +17,7 @@ testing on MacOS Catalina, Windows10.
 
 
 
-## Hou to use
+## How to use
 
 1. Python 3.6 or higher [install](https://www.python.org/downloads/)
 2. RUN
