@@ -4,7 +4,7 @@
 
 ![error](https://github.com/monegit/League-of-Refresh/blob/master/images/error.png?raw=true)
 
-This repository makes it easy to fix invisible firends list, overload and more.
+This repository makes it easy to fix **invisible firends list, overload and more**.
 
 
 
