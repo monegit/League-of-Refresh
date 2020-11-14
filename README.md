@@ -4,7 +4,7 @@
 
 ![error](https://github.com/monegit/League-of-Refresh/blob/master/images/error.png?raw=true)
 
-This repository makes it easy to fix invisible errors in the League of Legends friends list.
+This repository makes it easy to fix invisible firends list, overload and more.
 
 
 
@@ -19,7 +19,7 @@ testing on MacOS Catalina, Windows10.
 
 ## How to use
 
-1. Python 3.6 or higher [install](https://www.python.org/downloads/)
+1. Python 3.6 or higher(written based python 3.6) [install](https://www.python.org/downloads/)
 2. RUN
    - Windows user run as 'windows.bat'
    - MacOS user run as 'MacOS.app'
