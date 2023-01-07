@@ -19,11 +19,9 @@ This repository makes it easy to fix **invisible firends list, overload and more
 
 - MacOS
   - **Processor** Intel Core i5 (Dual Core 3.1 GHz)
-  - **Graphics** Intel Iris Plus Graphics 650 1536 MB
   - **OS Version** Catalina
 - Windows 10
   - **Processor** AMD Ryzen5 3600
-  - **Graphics** Geforce GTX 1060 6GHz
   - **OS Version** '20H2' Build Higher
 
 
